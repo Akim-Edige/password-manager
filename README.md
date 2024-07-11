@@ -19,5 +19,6 @@ Random is used and a password with 10 random letters, 4 digits, and 4 symbols is
 
 <p>Searching password:</p>
 <p></p>
+
 ![ScreenRecording2024-07-11at16 10 05-ezgif com-video-to-gif-converter](https://github.com/Akim-Edige/password-manager/assets/115921160/ff6d3c93-80ca-4be2-94f2-997aa42b8705)
 
